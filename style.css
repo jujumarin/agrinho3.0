@@ -2,7 +2,7 @@ body {
 
     font-family: Arial, sans-serif;
 
-    margin: 20px;
+    margin: 30px;
 
     background-color: #eaf6ed;
 
@@ -10,25 +10,25 @@ body {
 
 h1 {
 
-    color: #0b6b3a;
+    color: #023d14;
 
 }
 
 h2 {
 
-    color: #145c2e;
+    color: #29b25b;
 
 }
 
 h3 {
 
-    color: #1b7a43;
+    color: #406951;
 
 }
 
 p, li {
 
-    color: #333;
+    color: #000000;
 
 }
 
